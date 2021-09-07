@@ -1,6 +1,6 @@
 
 # Enes Ayhan Balcıoğlu
-A sophomore Electrical and Electronics Engineering Student at Turkish-German University.
+A sophomore Electrical and Electronics Engineering Student at Turkish-German University. Focused on economics, psychology, science and sports. Deep Learning & Machine Learning enthusiast. Highly interested in early stage technology startups.
 
 ## Contact me
 
