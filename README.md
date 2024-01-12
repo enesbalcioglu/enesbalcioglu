@@ -2,7 +2,7 @@
 # Enes Ayhan Balcıoğlu
 A sophomore **Electrical and Electronics Engineering** Student at [**Turkish-German University**](http://www.tau.edu.tr/de). Focused on **economics**, **psychology**, **science** and **sports**. **Deep Learning & Machine Learning** enthusiast. Highly interested in **early stage technology startups**.
 
-# [CV](https://enesbalcioglu.github.io/CV/)
+# [CV] 
 
 
 ## Contact me!
